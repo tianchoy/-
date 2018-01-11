@@ -81,12 +81,12 @@ var privateKey = '-----BEGIN RSA PRIVATE KEY-----'+
   'If4V + 06adlb3bh/ gAL + sJgayqxbSBYkOHrz9BXkRueN1UzNq95UaYp5sEAkCQHiH'+
   'rkNUrR4ZRa3pLTLyliQ3bq1WfVqI8oqZgUi84VRYPWfVNd9QqOfI0WOGlDerlrX2'+
   'maqbv23TerwWwMjiWksCQFUL9bdBnWH6frQDqH1BJ7vD54hxSS0mP6EEIebc3AtF'+
-  'Kkz92E5y4KsDXyy / jitpqtJnM5ARgCGtgwMJ7fPGsWI='+
+  'Kkz92E5y4KsDXyy / jitpqtJnM5ARgCGtgwMJ7fPG='+
 '-----END RSA PRIVATE KEY-----'
 
 var publicKey = '-----BEGIN PUBLIC KEY-----' +
   'MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCLMniaFacLWDAvrlkawAWBV / EW'+
   '3a37kAdtKpGg1BHZ1WwNbHZ2z8CAv1Lic311sGz8f0rg3IkefoxPbwXHHi6FaONP'+
-  'agl1jRJV + twINQf1TZvxAg + 7OssISNxE7g5+ 1zY6YC/ 45rdfzIWwqmQlSAoP0EYc'+
+  'agl1jRJV + twINQf1TZvxAg + 7OssISNxE7g5+6YC/ 45rdfzIWwqmQlSAoP0EYc'+
   'lZtjW7lszSO / 6dBD2wIDAQAB'+
 '-----END PUBLIC KEY-----'

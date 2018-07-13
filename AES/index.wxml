@@ -1,6 +1,6 @@
 // page/aes/aes.js
 var app = getApp()
-var Dec = require('../../until/public.js');//引用封装好的加密解密js
+var Dec = require('public.js');//引用封装好的加密解密js
 Page({
 
   /**
